@@ -21,10 +21,12 @@
 | 🌐 | **[musatisik.com](https://musatisik.com)** | Kişisel site: projeler, 21 oyun, araçlar · Osobní web · Personal site with projects, 21 games and tools |
 | 🎓 | **[Öğren](https://musatisik.com/ogren/)** | HTML, CSS, JS, Python, PHP, SQL, Git, Linux dersleri · Lekce · Free lessons with quizzes & certificates |
 | 🖥️ | **[ISOS](https://musatisik.com/os/)** | Tarayıcıda işletim sistemi · OS v prohlížeči · An OS in the browser: terminal, Paint, Synth… |
-| 🚚 | **[lojistik](https://github.com/musatisik/lojistik)** | Kamyon takip ve filo paneli · Sledování vozového parku · Truck tracking & fleet dashboard |
-| 💬 | **[tehnicka-podpora-chatbot](https://github.com/musatisik/tehnicka-podpora-chatbot)** | Yapay zekâ destekli teknik destek · AI technická podpora · AI-powered support chatbot |
-| 🍽️ | **[one-page-webova-stranka](https://github.com/musatisik/one-page-webova-stranka)** | Çok dilli restoran sitesi · Web restaurace · Multilingual restaurant site |
+| 🚚 | **[lojistik](https://musatisik.github.io/project/lojistik/)** · [kod](https://github.com/musatisik/project/tree/main/lojistik) | Kamyon takip ve filo paneli · Sledování vozového parku · Truck tracking & fleet dashboard |
+| 💬 | **[chatbot](https://musatisik.github.io/project/chatbot/)** · [kod](https://github.com/musatisik/project/tree/main/chatbot) | Yapay zekâ destekli teknik destek · AI technická podpora · AI-powered support chatbot |
+| 🍽️ | **[restoran](https://musatisik.github.io/project/restoran/)** · [kod](https://github.com/musatisik/project/tree/main/restoran) | Çok dilli restoran sitesi · Web restaurace · Multilingual restaurant site |
 | 💻 | **[programing](https://github.com/musatisik/programing)** | Python, JS, SQL, PHP, web ve ağ çalışmalarım · Školní práce · School work in one place |
+
+📁 Tüm projeler · Všechny projekty · All projects → **[musatisik.github.io/project](https://musatisik.github.io/project/)**
 
 ### 🛠️ Kullandıklarım · Používám · Tech
 
