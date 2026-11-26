@@ -17,12 +17,12 @@ I build websites, small games and tools that run in the browser. My site has fre
 | 🌐 | **[musatisik.com](https://musatisik.com)** | Personal site with projects, 21 games and tools |
 | 🎓 | **[Learn (Öğren)](https://musatisik.com/ogren/)** | Free lessons: HTML, CSS, JS, Python, PHP, SQL, Git, Linux – with quizzes & certificates |
 | 🖥️ | **[ISOS](https://musatisik.com/os/)** | An OS in the browser: terminal, files, Paint, Synth… |
-| 🚚 | **[ROTAX Logistics](https://musatisik.github.io/project/lojistik/)** · [code](https://github.com/musatisik/PROJECT/tree/main/lojistik) | Truck tracking & fleet dashboard |
-| 💬 | **[Support Chatbot](https://musatisik.github.io/project/chatbot/)** · [code](https://github.com/musatisik/PROJECT/tree/main/chatbot) | AI-powered technical support |
-| 🍽️ | **[Restaurant](https://musatisik.github.io/project/restoran/)** · [code](https://github.com/musatisik/PROJECT/tree/main/restoran) | Multilingual one-page restaurant site |
+| 🚚 | **[ROTAX Logistics](https://musatisik.com/projeler/lojistik/)** · [code](https://github.com/musatisik/PROJECT/tree/main/lojistik) | Truck tracking & fleet dashboard |
+| 💬 | **[Support Chatbot](https://musatisik.com/projeler/chatbot/)** · [code](https://github.com/musatisik/PROJECT/tree/main/chatbot) | AI-powered technical support |
+| 🍽️ | **[Restaurant](https://musatisik.com/projeler/restoran/)** · [code](https://github.com/musatisik/PROJECT/tree/main/restoran) | Multilingual one-page restaurant site |
 | 💻 | **[PROGRAMING](https://github.com/musatisik/PROGRAMING)** | School work: Python, JS, SQL, PHP, web, networking |
 
-📁 All projects → **[musatisik.github.io/project](https://musatisik.github.io/project/)**
+📁 All projects → **[PROJECT](https://github.com/musatisik/PROJECT)**
 
 ### 🛠️ Tech
 
