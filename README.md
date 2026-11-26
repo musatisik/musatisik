@@ -1,34 +1,30 @@
 <div align="center">
 
-# Merhaba, ben Musat 👋
-
-**Ahoj · Hi**
+# Hi, I'm Musat 👋
 
 [![musatisik.com](https://img.shields.io/badge/🌐_musatisik.com-0a6a4b?style=for-the-badge)](https://musatisik.com)
-[![Öğren](https://img.shields.io/badge/🎓_Öğren_·_Learn-2563eb?style=for-the-badge)](https://musatisik.com/ogren/)
+[![Learn](https://img.shields.io/badge/🎓_Learn-2563eb?style=for-the-badge)](https://musatisik.com/ogren/)
 [![ISOS](https://img.shields.io/badge/🖥️_ISOS-7c3aed?style=for-the-badge)](https://musatisik.com/os/)
 
 </div>
 
-🇹🇷 Web siteleri, küçük oyunlar ve tarayıcıda çalışan araçlar yapıyorum. Sitemde ücretsiz kodlama dersleri ve tarayıcıda çalışan bir işletim sistemi (ISOS) var.
-🇨🇿 Tvořím webové stránky, malé hry a nástroje, které běží v prohlížeči. Na mém webu najdeš bezplatné lekce programování a operační systém v prohlížeči (ISOS).
-🇬🇧 I build websites, small games and tools that run in the browser. My site has free coding lessons and an operating system that runs in your browser (ISOS).
+I build websites, small games and tools that run in the browser. My site has free coding lessons and an operating system that runs in your browser (ISOS).
 
-### 📌 Projeler · Projekty · Projects
+### 📌 Projects
 
-| | Proje · Projekt · Project | |
+| | Project | |
 |---|---|---|
-| 🌐 | **[musatisik.com](https://musatisik.com)** | Kişisel site: projeler, 21 oyun, araçlar · Osobní web · Personal site with projects, 21 games and tools |
-| 🎓 | **[Öğren](https://musatisik.com/ogren/)** | HTML, CSS, JS, Python, PHP, SQL, Git, Linux dersleri · Lekce · Free lessons with quizzes & certificates |
-| 🖥️ | **[ISOS](https://musatisik.com/os/)** | Tarayıcıda işletim sistemi · OS v prohlížeči · An OS in the browser: terminal, Paint, Synth… |
-| 🚚 | **[lojistik](https://musatisik.github.io/project/lojistik/)** · [kod](https://github.com/musatisik/project/tree/main/lojistik) | Kamyon takip ve filo paneli · Sledování vozového parku · Truck tracking & fleet dashboard |
-| 💬 | **[chatbot](https://musatisik.github.io/project/chatbot/)** · [kod](https://github.com/musatisik/project/tree/main/chatbot) | Yapay zekâ destekli teknik destek · AI technická podpora · AI-powered support chatbot |
-| 🍽️ | **[restoran](https://musatisik.github.io/project/restoran/)** · [kod](https://github.com/musatisik/project/tree/main/restoran) | Çok dilli restoran sitesi · Web restaurace · Multilingual restaurant site |
-| 💻 | **[programing](https://github.com/musatisik/programing)** | Python, JS, SQL, PHP, web ve ağ çalışmalarım · Školní práce · School work in one place |
+| 🌐 | **[musatisik.com](https://musatisik.com)** | Personal site with projects, 21 games and tools |
+| 🎓 | **[Learn (Öğren)](https://musatisik.com/ogren/)** | Free lessons: HTML, CSS, JS, Python, PHP, SQL, Git, Linux – with quizzes & certificates |
+| 🖥️ | **[ISOS](https://musatisik.com/os/)** | An OS in the browser: terminal, files, Paint, Synth… |
+| 🚚 | **[ROTAX Logistics](https://musatisik.github.io/project/lojistik/)** · [code](https://github.com/musatisik/PROJECT/tree/main/lojistik) | Truck tracking & fleet dashboard |
+| 💬 | **[Support Chatbot](https://musatisik.github.io/project/chatbot/)** · [code](https://github.com/musatisik/PROJECT/tree/main/chatbot) | AI-powered technical support |
+| 🍽️ | **[Restaurant](https://musatisik.github.io/project/restoran/)** · [code](https://github.com/musatisik/PROJECT/tree/main/restoran) | Multilingual one-page restaurant site |
+| 💻 | **[PROGRAMING](https://github.com/musatisik/PROGRAMING)** | School work: Python, JS, SQL, PHP, web, networking |
 
-📁 Tüm projeler · Všechny projekty · All projects → **[musatisik.github.io/project](https://musatisik.github.io/project/)**
+📁 All projects → **[musatisik.github.io/project](https://musatisik.github.io/project/)**
 
-### 🛠️ Kullandıklarım · Používám · Tech
+### 🛠️ Tech
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -40,6 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📫 İletişim · Kontakt · Contact
+### 📫 Contact
 
 ✉️ [info@musatisik.com](mailto:info@musatisik.com) · 🌐 [musatisik.com](https://musatisik.com)
